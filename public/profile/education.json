@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Aug 2021 - May 2023",
+            "cardTitle": "M.S, Computer Science",
+            "cardSubtitle":"University of Texas at Dallas",
+            "cardDetailedText": "CGPA - 3.69/4",
+            "icon" : {
+                "src": "images/education/utd.png"
+            }
+        },
+        {
+            "title": "Jun 2017 - May 2021",
+            "cardTitle": "B.Tech, Electronic and Communication",
+            "cardSubtitle":"Vellore Institute of Technology",
+            "cardDetailedText": "CGPA - 8.47/10",
+            "icon" : {
+                "src": "images/education/vit.png"
+            }
+        }
+    ]
+}
+
+
+

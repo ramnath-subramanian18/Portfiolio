@@ -1,0 +1,190 @@
+{
+    
+    "projects" : [
+        {
+            "image" : "images/projects/reddit.webp",
+            "title": "Real-time NER of Reddit Comments",
+            "bodyText": "- Developed a Python application with Reddit Python SDK to stream subreddit comments and push to Kafka. \n - Used PySpark’s streaming feature to filter named entities from topic comments using spacy and push to LogStash. \n - Created dashboard for visualization of the named entities in Kibana to analyze the trends in that subreddit. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Real-time-NER-of-Reddit-Comments"
+                }
+                
+            ],
+            "tags" : [
+                "Pyspark",
+                "ELK",
+                "Kafka",
+                "Python"
+            ]
+        },
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Automatic Email label",
+            "bodyText": "- Created email classification system using decision tree classifier with Accuracy of 88%. \n - Integrated ChatGPT for unknown labeling. \n - Integrated the results with react frontend and backend in Python Flask, utilized JWT for authentication and MongoDB for storage. \n - Containerized the modules and created docker images, docker compose setup for easy deployment. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ramnath-subramanian18/Email_label_backend"
+                }
+            ],
+            "tags" : [
+                "Flask",
+                "Mongo",
+                "React",
+                "Docker",
+                "Decision tree"
+            ]
+        },
+        {
+            "image" : "images/projects/kmean.jpg",
+            "title": "Enhanced K-mean with Automated k estimation and Outlier Detection",
+            "bodyText": "- Developed an automated Elbow Method for optimal K estimation.\n - Implemented Naïve-Sharding to accelerate convergence.\n - Built an auto-encoder neural network for detecting outliers.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Enhanced-k-mean-with-automated-k-estimation-and-outlier-detection-using-auto-encoder-neural-network"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "autoencoder",
+                "Scikit-learn"
+            ]
+        },
+        {
+            "image" : "images/projects/stock.jpeg",
+            "title": "Live Stock Market Prediction",
+            "bodyText": "- Developed a LSTM model for stock market analysis using Yahoo time series data. \n - Utilized Yahoo API to stream live stock data to Kafka topic for real-time prediction and training. \n - Utilized Matplotlib to visualize the actual and predicted stock values obtained from the LSTM model for stock market analysis. \n - The LSTM model not only analyzes historical data but also adapts to real-time market fluctuations for accurate predictions.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ramnath-subramanian18"
+                }
+            ],
+            "tags" : [
+                "Kafka",
+                "Python",
+                "LSTM",
+                "Matplotlib"
+            ]
+        },
+        {
+            "image" : "images/projects/pothole.png",
+            "title": "Pothole Detection and Mapping Android Application",
+            "bodyText": "- Developed an android application that detects the presence of potholes using Inception V3 and Transfer Learning.\n - Plotted the location of the detected potholes in Google maps.\n - The android application can also notify the local authorities.\n",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/PotholeDetector"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Android Studio",
+                "Firebase",
+                "Transfer Learning",
+                "Google maps API",
+                "Inception V3"
+            ]
+        },
+        {
+            "image" : "images/projects/movie.jpg",
+            "title": "Movie Search Engine",
+            "bodyText": "- Enhanced the user experience with a user-friendly movie search interface. \n - Designed an interface for movie searches.\n - Developed a movie search engine using plot summaries. \n - Utilized NLTK for stop-word removal and named entity recognition. \n - Implemented Tf-Idf and Cosine Similarity algorithms via MapReduce to determine Document Correlation.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Wordcount-and-movie-search"
+                }
+            ],
+            "tags" : [
+                "Pyspark",
+                "NLTK",
+                "NLP"
+            ]
+        },
+        {
+            "image" : "images/projects/linux.png",
+            "title": "Encrypted File System",
+            "bodyText": "- Designed and implemented an encrypted file system in Java using SHA256 hashing for password validation, encryption of file chunks, and HMAC generation for data integrity. \n - Optimized file operations for efficient read/write performance and encryption/decryption.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Encrypted-File-System"
+                }
+            ],
+            "tags" : [
+                "Java"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/face_mask.png",
+            "title": "Covid-19 preventive measures",
+            "bodyText": "-  integrated a CNN based on Mobile Net V2 architecture to accurately detect the presence of a face mask. \n - Achieved 96% test accuracy. \n - Deployed a contact less temperature sensor to measure the body temperature.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Covid-19-Preventive-Measures"
+                }
+            ],
+            "tags" : [
+                "Mobile Net V2",
+                "OpenCV",
+                "CNN",
+                "Arduino"
+            ]
+        },
+        
+        
+        {
+            "image" : "images/projects/parking.jpeg",
+            "title": "IoT and Digital Image Processing Based Parking System",
+            "bodyText": "- A website based parking system which allows user to book parking slot in advance along with vehicle number plate detection for security.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/sramnath123/Website-Based-Parking-System-using-IoT"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "MySQL",
+                "OpenCV",
+                "PyTesseract"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/doordash.jpeg",
+            "title": "Designed a database for a delivery system",
+            "bodyText": "- Developed a complete database for the door dash delivery application from scratch and implemented in Oracle 19c .\n - Involved in requirements gathering and modeling the application to a real-world scenario, drawing ER diagram, relational model.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ramnath-subramanian18"
+                }
+            ],
+            "tags" : [
+                "Oracle 19c"
+            ]
+        },{
+            "image" : "images/projects/new_try.jpg",
+            "title": "Building Linear Models",
+            "bodyText": "- Developed a linear model to analyze the relationship between PSA (Serum Prostate-Specific Antigen) levels and quantitative predictors. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ramnath-subramanian18"
+                }
+            ],
+            "tags" : [
+                "R Studio",
+                "R"
+            ]
+        }
+       
+    ]
+}
