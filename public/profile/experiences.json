@@ -1,0 +1,44 @@
+{
+    "experiences": [
+
+        {
+            "title": "Developer",
+            "subtitle": "Mouser Electronics, Mansfield TX",
+            "workDescription": [
+                "Designed and deployed monitoring scripts across 600 servers, capturing netstat details and server statistics.",
+                "Utilized Zabbix for automated health monitoring and alerting, enabling rapid response to server degradation.",
+                "Streamlined troubleshooting processes by leveraging netstat data for efficient diagnostics and issue resolution."
+            ],
+            "dateText": "07/2023 – Present"
+        },
+
+        {
+            "title": "Software Developer Intern",
+            "subtitle": "Intel Corporation, California, US",
+            "workDescription": [
+                "Worked on Intel’s oneAPI UI Interface, where user’s can perform job submission, track them and launch Computer nodes for workshops.",
+                "Worked on slurm interface REST APIs to submit a job, and check the status of the job on the front end. Through the interface, faculty can trigger compute nodes that can scale up to 200 nodes.",
+                "Implemented notebooks to run ML and High Power Computing (HPC) jobs in the Jupyter lab"
+            ],
+            "dateText": "08/2022 – 05/2023"
+        },
+        {
+            "title": "Web Operation Intern",
+            "subtitle": "Mouser Electronics, Mansfield TX",
+            "workDescription": [
+                "Migrating legacy PHP code to Python which removes scaling issues for the existing application and synchronizes millions of objects.",
+                "Refactored the code to scale the application and accommodate vendor API key constraints without disturbing the existing volume and throughput."
+            ],
+            "dateText": "06/2022 – 08/2022"
+        },
+        {
+            "title": "Project Intern",
+            "subtitle": "Paragon Dynamics and Info Systems",
+            "workDescription": [
+                "Developed a web-application using Python Flask that overcomes the hazels faced by faculties in a classroom. Deployed a Face Recognition based attendance system on Raspberry Pi to capture live attendance.",
+                "Designed an NLP based Answer script evaluator."
+            ],
+            "dateText": "05/2020 – 06/2020"
+        }
+    ]
+}

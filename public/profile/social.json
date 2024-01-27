@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ramnath-subramanian-2b619b162/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/sramnath123"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:sramnath1812@gmail.com"
+        }
+    ]
+}
