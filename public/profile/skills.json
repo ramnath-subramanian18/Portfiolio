@@ -97,5 +97,43 @@
                 }
 
             ]
-    }
+        },
+                {
+            "title": "Networking & Infrastructure",
+            "items": [
+                {
+                    "icon": "images/skills/Ansible_logo.svg.png",
+                    "title": "Ansible"
+                },
+                {
+                    "icon": "images/skills/f5.png",
+                    "title": "F5 BIG-IP"
+                },
+                {
+                    "icon": "images/skills/cisco.png",
+                    "title": "Cisco IOS"
+                },
+                {
+                    "icon": "images/skills/palo-alto.jpeg",
+                    "title": "Palo Alto"
+                },
+                {
+                    "icon": "images/skills/zabbix.png",
+                    "title": "Zabbix"
+                },
+                {
+                    "icon": "images/skills/grafana.png",
+                    "title": "Grafana"
+                },
+                {
+                    "icon": "images/skills/splunk.png",
+                    "title": "Splunk"
+                },
+                {
+                    "icon": "images/skills/network.png",
+                    "title": "Network Design"
+                }
+            ]
+        }
+    
 ]}

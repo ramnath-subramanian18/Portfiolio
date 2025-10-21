@@ -1,24 +1,37 @@
 {
     "experiences": [
-
+        {
+            "title": "Developer",
+            "subtitle": "Geico Tech , Dallas TX",
+            "workDescription": [
+                "Implemented network infrastructure for multiple offices, including two small sites (150–200 users each) and one large site (1,400+ users), improving scalability, redundancy, and system availability across the organization.",
+                "Deployed and configured enterprise network infrastructure including Cisco switches (DMZ, core, access), Palo Alto IONs, Lantronix console servers, and firewalls, completing full end-to-end cabling and installation to ensure reliable connectivity.",
+                "Built and configured F5 VIPs, pools, nodes, profiles, SNI policies, and SSL certificates for internal and external applications.",
+                "Streamlined F5 operations by developing Python Jinja2 templates to automate VIP creation, SSL profile updates, and node-to-VIP modifications, integrated with CI/CD pipelines for pre- and post-deployment validation.",
+                "Developed Ansible playbooks to automate SNMP and syslog validation across the Denver and McLean data centers, improving configuration consistency and operational efficiency.",
+                "Migrated configurations from Plaza F5 to McLean F5 data center devices, upgraded F5 infrastructure, and integrated traffic into the GTM, ensuring seamless network continuity and high availability."
+            ],
+            "dateText": "11/2024 – Present"
+        },
         {
             "title": "Developer",
             "subtitle": "Mouser Electronics, Mansfield TX",
             "workDescription": [
-                "Designed and deployed monitoring scripts across 600 servers, capturing netstat details and server statistics.",
-                "Utilized Zabbix for automated health monitoring and alerting, enabling rapid response to server degradation.",
-                "Streamlined troubleshooting processes by leveraging netstat data for efficient diagnostics and issue resolution."
+                "Deployed monitoring scripts across 600+ servers, capturing metrics, connectivity, and netstat data for analysis.",
+                "Developed Python scripts to aggregate network and application availability data from Website Pulse, Binary Canary, and Pingdom.",
+                "Built executive dashboards in Splunk integrating multiple monitoring sources to provide end-to-end network and server visibility.",
+                "Engineered a web dashboard for managing subscriptions, distribution lists, and monitoring access controls for the Dashboard."
             ],
-            "dateText": "07/2023 – Present"
+            "dateText": "07/2023 – 11/2024"
         },
 
         {
             "title": "Software Developer Intern",
             "subtitle": "Intel Corporation, California, US",
             "workDescription": [
-                "Worked on Intel’s oneAPI UI Interface, where user’s can perform job submission, track them and launch Computer nodes for workshops.",
-                "Worked on slurm interface REST APIs to submit a job, and check the status of the job on the front end. Through the interface, faculty can trigger compute nodes that can scale up to 200 nodes.",
-                "Implemented notebooks to run ML and High Power Computing (HPC) jobs in the Jupyter lab"
+                "Developed a workshop management platform using Intel’s oneAPI to automate provisioning of compute nodes for HPC workloads.",
+                "Built web dashboards to visualize compute node health, job activity, and network utilization, and troubleshooting.",
+                "Implemented REST APIs with Slurm to enable job submission, cancellation, and resource allocation via a centralized web interface."
             ],
             "dateText": "08/2022 – 05/2023"
         },
@@ -26,8 +39,8 @@
             "title": "Web Operation Intern",
             "subtitle": "Mouser Electronics, Mansfield TX",
             "workDescription": [
-                "Migrating legacy PHP code to Python which removes scaling issues for the existing application and synchronizes millions of objects.",
-                "Refactored the code to scale the application and accommodate vendor API key constraints without disturbing the existing volume and throughput."
+                "Migrated legacy PHP scripts to Python to automate synchronization of images, datasheets, and static files between local servers and Akamai CDN, improving scalability and reliability.",
+                "eveloped automation to compare local files with CDN content hourly, updating the database and triggering alerts for discrepancies."
             ],
             "dateText": "06/2022 – 08/2022"
         },

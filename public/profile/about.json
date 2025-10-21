@@ -1,5 +1,5 @@
 {
-    "about": " I'm a passionate and innovative professional with expertise in Software Engineering, Full-Stack Development, and Data Science. During my time at UT Dallas, I specialized in the Data Science track, gaining deep insights into the core components and algorithms used in Machine Learning models. I've applied these algorithms effectively in various professional projects.",
+    "about": " I am a software engineer with experience in network automation, network design, and full-stack development. I’ve built and automated networks for multiple office sites, configured F5 load balancers, Cisco switches, Palo Alto firewalls, and implemented monitoring dashboards using Splunk, Zabbix, and Grafana. On the software side, I develop scalable web applications with React, Spring Boot, Flask, and Docker, integrating automation, CI/CD pipelines, and microservices to deliver efficient, reliable, and high-performing solutions.",
     "imageSource": "images/about/profile.jpg"
     
 }

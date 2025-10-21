@@ -1,6 +1,26 @@
 {
     
     "projects" : [
+            {
+        "image": "images/projects/split-up.png",
+        "title": "Smart Expense Tracker",
+        "bodyText": "- Developed a full-stack Splitwise-like app for managing and categorizing bank transactions using ChatGPT API.\n - Built group and individual expense management with cost splitting and transaction analysis.\n - Implemented Spring Boot (JWT), React, and Flask microservice architecture, containerized with Docker, and deployed online with centralized logging via Datazap and MongoDB storage.",
+        "links": [
+            {
+                "text": "GitHub",
+                "href": "https://github.com/ramnath-subramanian18/Split-up"
+            }
+        ],
+        "tags": [
+            "Spring Boot",
+            "React",
+            "Flask",
+            "Docker",
+            "MongoDB",
+            "ChatGPT API",
+            "JWT"
+        ]
+    },
         {
             "image" : "images/projects/reddit.webp",
             "title": "Real-time NER of Reddit Comments",
